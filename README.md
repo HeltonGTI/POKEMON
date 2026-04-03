@@ -18,4 +18,4 @@ Nome Imagem Tipo Peso
 
 🛠️ Tecnologias utilizadas HTML5 CSS3 JavaScript (Vanilla JS) API REST (PokeAPI)
 
-https://heltongti.github.io/IMC-2/
+https://heltongti.github.io/POKEMON/
