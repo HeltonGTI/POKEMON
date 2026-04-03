@@ -1,17 +1,19 @@
-# 🧮Calculadora IMC
+🧢 App Pokémon
 
-Projeto desenvolvido com **HTML, CSS e JS** com o objetivo de elaborar uma UI que calcula o IMC.
-O projeto inclui CSS e manipulação de campos através do JS.
+Aplicação web interativa que consome a PokeAPI para buscar informações de Pokémon, exibir os dados em tela e armazenar os resultados no navegador.
 
-> Curso Gestão da Tecnologia da Informação - Fatec Itu
+📸 Preview 🔎 Busca de Pokémon
 
-## 🚀Tecnologias Utilizadas
-- HTML5
-- CSS3
-- Javascript (Vanilla JS)
+🐉 Exemplo de Pokémon exibido
 
-## Demonstração online
-Acesse https://heltongti.github.io/IMC/
+🌱 Outro exemplo
 
-## Licença
-A licença deste software é **MIT**
+🚀 Funcionalidades
+
+✔ Buscar Pokémon pelo nome ✔ Exibir dados diretamente da API ✔ Mostrar informações como:
+
+Nome Imagem Tipo Peso
+
+✔ Salvar resultados no localStorage ✔ Listar Pokémon em tabela ✔ Remover Pokémon da lista
+
+🛠️ Tecnologias utilizadas HTML5 CSS3 JavaScript (Vanilla JS) API REST (PokeAPI)
