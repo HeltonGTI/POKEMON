@@ -17,3 +17,5 @@ Nome Imagem Tipo Peso
 ✔ Salvar resultados no localStorage ✔ Listar Pokémon em tabela ✔ Remover Pokémon da lista
 
 🛠️ Tecnologias utilizadas HTML5 CSS3 JavaScript (Vanilla JS) API REST (PokeAPI)
+
+https://heltongti.github.io/IMC-2/
