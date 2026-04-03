@@ -1,8 +1,8 @@
 🧢 App Pokémon
 
-Aplicação web interativa que consome a PokeAPI para buscar informações de Pokémon, exibir os dados em tela e armazenar os resultados no navegador.
+- Aplicação web interativa que consome a PokeAPI para buscar informações de Pokémon, exibir os dados em tela e armazenar os resultados no navegador.
 
-Curso Gestão da Tecnologia da Informação - Fatec Itu
+- Curso Gestão da Tecnologia da Informação - Fatec Itu
 
 📸 Preview 🔎 Busca de Pokémon
 
@@ -20,4 +20,4 @@ Nome Imagem Tipo Peso
 
 🛠️ Tecnologias utilizadas HTML5 CSS3 JavaScript (Vanilla JS) API REST (PokeAPI)
 
-https://heltongti.github.io/POKEMON/
+- https://heltongti.github.io/POKEMON/
