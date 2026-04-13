@@ -91,6 +91,7 @@ Acesse o projeto online:
 ## 👨‍💻 Autor
 
 Desenvolvido por **Helton Augusto de Toledo** - **Anderson Henrique Domingues** - **Stefani Regina Salles Farias**
+
 Curso: Gestão da Tecnologia da Informação – Fatec Itu - 4 Semestre
 
 ---
